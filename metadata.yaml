@@ -1,5 +1,8 @@
 _repo: Place-Names-in-Kent_63263
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63263-h/images/cover.jpg
 creator:
   author:
     agent_name: Horsley, J. W. (John William)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '40872'
     url: http://www.gutenberg.org/2009/agents/40872
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63263#Place-Names-in-Kent
 gutenberg_issued: '2020-09-22'
 gutenberg_type: Text
 identifiers:
