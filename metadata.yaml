@@ -1,0 +1,23 @@
+_repo: Place-Names-in-Kent_63263
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Horsley, J. W. (John William)
+    alias: Horsley, John William
+    birthdate: 1845
+    deathdate: 1921
+    gutenberg_agent_id: '40872'
+    url: http://www.gutenberg.org/2009/agents/40872
+description: ''
+gutenberg_issued: '2020-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Place Names in Kent
+url: http://www.gutenberg.org/ebooks/63263
